@@ -1,0 +1,30 @@
+MoodSense – Mood Prediction System
+
+About the Project
+
+MoodSense is a simple Python-based project that predicts whether a sentence expresses a Happy or Sad mood.
+
+Features
+
+- Counts Happy and Sad sentences.
+- Predicts mood using clue words.
+- Tests the prediction using practice sentences.
+- Calculates prediction accuracy.
+
+Technologies Used
+
+- Python
+- Text File
+
+Project Files
+
+- "main.py" – Python program
+- "train_data.txt" – Training dataset
+
+How to Run
+
+Run the "main.py" file using Python.
+
+Project Level
+
+Beginner Python Project
